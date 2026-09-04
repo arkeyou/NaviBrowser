@@ -18,18 +18,9 @@ O NAVI não envia automaticamente essas informações para servidores próprios.
 
 ## 2. Dados de navegação
 
-Como qualquer navegador, o NAVI pode processar informações necessárias para acessar e exibir páginas da Internet, incluindo:
+Como qualquer navegador, o NAVI pode processar informações necessárias para acessar e exibir páginas da Internet.
 
-- URLs acessadas;
-- conteúdo das páginas;
-- cookies;
-- dados de sessão;
-- informações inseridas pelo usuário nas páginas;
-- outras informações necessárias para o funcionamento dos sites acessados.
-
-Essas informações são utilizadas para proporcionar a experiência de navegação e permitir a execução das ações configuradas pelo usuário.
-
-O NAVI não transmite automaticamente essas informações para servidores próprios.
+O NAVI não transmite essas informações para servidores próprios.
 
 ## 3. Sites e serviços de terceiros
 
@@ -59,29 +50,11 @@ As automações não devem ser utilizadas para obter acesso não autorizado a si
 
 As configurações, automações, scripts e outras informações necessárias ao funcionamento do NAVI podem ser armazenadas localmente no dispositivo do usuário.
 
-Essas informações permanecem sob controle do usuário e não são automaticamente enviadas para servidores próprios do NAVI.
+Essas informações permanecem sob controle do usuário e não são enviadas para servidores próprios do NAVI.
 
 A remoção do aplicativo poderá resultar na remoção dos dados armazenados localmente, de acordo com o funcionamento do sistema operacional.
 
-## 6. APIs e servidores externos
-
-O NAVI não depende de APIs externas ou de servidores próprios para executar suas funcionalidades de navegação e automação.
-
-As operações relacionadas às automações são realizadas localmente no dispositivo.
-
-Isso significa que o NAVI não envia automaticamente para um servidor próprio:
-
-- URLs visitadas;
-- conteúdo das páginas;
-- cookies;
-- dados de sessão;
-- scripts criados pelo usuário;
-- configurações de automação;
-- informações inseridas pelo usuário em páginas da web.
-
-Essa característica faz parte da arquitetura do aplicativo e tem como objetivo reduzir a exposição de informações do usuário.
-
-## 7. Compartilhamento de informações
+## 6. Compartilhamento de informações
 
 O NAVI não vende, aluga ou comercializa informações pessoais dos usuários.
 
@@ -91,7 +64,7 @@ Entretanto, quando o usuário acessa ou interage com serviços de terceiros, ess
 
 Informações poderão também ser fornecidas quando exigido por lei, ordem judicial ou determinação de autoridade competente.
 
-## 8. Segurança
+## 7. Segurança
 
 Adotamos medidas razoáveis para preservar a segurança das informações armazenadas e processadas pelo aplicativo.
 
@@ -101,13 +74,13 @@ Apesar disso, nenhum sistema eletrônico pode garantir segurança absoluta.
 
 O usuário também é responsável por proteger seu dispositivo, credenciais, contas e demais informações utilizadas durante a navegação.
 
-## 9. Crianças
+## 8. Crianças
 
 O NAVI não é direcionado especificamente a crianças.
 
 Não solicitamos intencionalmente dados pessoais de crianças para utilização das funcionalidades do aplicativo.
 
-## 10. Direitos do usuário
+## 9. Direitos do usuário
 
 Nos termos da legislação aplicável, incluindo a Lei Geral de Proteção de Dados Pessoais (LGPD), o usuário possui direitos relacionados ao tratamento de seus dados pessoais.
 
@@ -115,7 +88,7 @@ Como o NAVI prioriza o processamento local e não mantém, por padrão, um cadas
 
 Para solicitações relacionadas a eventual tratamento de dados pessoais pelo NAVI, o usuário poderá entrar em contato através do endereço indicado nesta política.
 
-## 11. Alterações nesta Política de Privacidade
+## 10. Alterações nesta Política de Privacidade
 
 Esta Política de Privacidade poderá ser atualizada periodicamente para refletir alterações nas funcionalidades do NAVI, na legislação aplicável ou na forma como o aplicativo trata informações.
 
@@ -123,15 +96,13 @@ A versão mais recente estará sempre disponível na página oficial desta Polí
 
 A data da última atualização será indicada no início do documento.
 
-## 12. Contato
+## 11. Contato
 
 Caso tenha dúvidas sobre esta Política de Privacidade ou sobre o tratamento de informações pelo NAVI, entre em contato:
 
-**E-mail:** [SEU E-MAIL]
+**E-mail:** ericofgomes@gmail.com
 
-**Desenvolvedor/Empresa:** [NOME DO DESENVOLVEDOR OU EMPRESA]
-
-**Website:** [SEU SITE]
+**Desenvolvedor/Empresa:** Erico Gomes
 
 ---
 
