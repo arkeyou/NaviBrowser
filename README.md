@@ -1,109 +1,74 @@
-# Política de Privacidade — NAVI
+# NAVI — Navegue. Automatize. Execute.
 
-**Última atualização: 3 de setembro de 2026**
+O NAVI é um navegador inteligente desenvolvido para automatizar tarefas na web de forma simples, prática e poderosa.
 
-Esta Política de Privacidade descreve como o aplicativo **NAVI** trata informações durante sua utilização.
+Transforme tarefas repetitivas em automações que podem navegar por páginas, executar ações, processar informações e acompanhar alterações automaticamente.
 
-O NAVI é um navegador desenvolvido para permitir navegação na web e automação de tarefas por meio de fluxos, scripts e ações configuradas pelo próprio usuário.
+## 🚀 Automatize tarefas na web
 
-A privacidade do usuário é uma prioridade no desenvolvimento do NAVI. O aplicativo foi projetado para executar suas funcionalidades localmente no dispositivo, sem a necessidade de um servidor próprio ou de APIs externas para processamento das automações.
+Crie fluxos de automação para executar uma sequência de ações diretamente no navegador.
 
-## 1. Dados pessoais
+- Acesse páginas automaticamente
+- Aguarde o carregamento de conteúdos
+- Execute ações em páginas da web
+- Interaja com elementos das páginas
+- Execute scripts JavaScript
+- Crie sequências de ações personalizadas
 
-O NAVI não solicita o fornecimento de dados pessoais para utilizar suas funcionalidades básicas.
+## ⚡ Execute seus próprios scripts
 
-As informações utilizadas para configurar e executar automações, incluindo fluxos, scripts, URLs e configurações definidas pelo usuário, são processadas localmente no dispositivo.
+O NAVI permite utilizar JavaScript para criar automações mais avançadas.
 
-O NAVI não envia automaticamente essas informações para servidores próprios.
+Escreva, salve e execute seus scripts diretamente no navegador, dando mais flexibilidade para automatizar tarefas específicas.
 
-## 2. Dados de navegação
+## 👁️ Monitore páginas automaticamente
 
-Como qualquer navegador, o NAVI pode processar informações necessárias para acessar e exibir páginas da Internet.
+Configure o NAVI para acompanhar páginas que sofrem alterações frequentes.
 
-O NAVI não transmite essas informações para servidores próprios.
+Quando uma mudança é identificada, sua automação pode processar a informação e executar as ações configuradas.
 
-## 3. Sites e serviços de terceiros
+Ideal para acompanhar:
 
-O NAVI permite que o usuário acesse sites e serviços disponibilizados por terceiros.
+- Informações atualizadas frequentemente
+- Alterações em páginas
+- Resultados e dados
+- Disponibilidade de informações
+- Processos que precisam ser repetidos periodicamente
 
-Quando uma página é acessada, a comunicação ocorre diretamente entre o dispositivo do usuário e o respectivo site ou serviço, de acordo com o funcionamento desses serviços.
+## 🔄 Monitoramento + Processamento + Execução
 
-Os sites de terceiros podem coletar, utilizar e armazenar informações de acordo com suas próprias políticas de privacidade e termos de uso.
+O NAVI foi desenvolvido para transformar uma simples verificação em um processo automatizado.
 
-O NAVI não controla as práticas de privacidade ou segurança desses sites.
+**Monitor:** acompanha uma página e identifica alterações.
 
-Recomendamos que o usuário consulte as políticas de privacidade dos serviços que utilizar através do NAVI.
+**Processar:** avalia as informações encontradas e determina o que deve acontecer.
 
-## 4. Automações e scripts
+**Executar:** realiza as ações configuradas diretamente no navegador.
 
-O NAVI permite criar e executar automações e scripts para interagir com páginas da web.
+Tudo isso pode funcionar de forma contínua, reduzindo tarefas manuais e repetitivas.
 
-As automações são executadas localmente no dispositivo e de acordo com as instruções configuradas pelo usuário.
+## 🧩 Flexível para diferentes tarefas
 
-Os scripts fornecidos pelo usuário podem acessar e interagir com elementos das páginas abertas no navegador, conforme as permissões e limitações impostas pelo próprio ambiente web.
+Crie automações de acordo com suas necessidades.
 
-O usuário é responsável pelo conteúdo dos scripts e pelas automações que criar e executar.
+Desde uma sequência simples de ações até fluxos mais elaborados utilizando JavaScript e condições personalizadas.
 
-As automações não devem ser utilizadas para obter acesso não autorizado a sistemas, contas ou informações de terceiros.
+O NAVI coloca o controle da automação nas suas mãos.
 
-## 5. Armazenamento local
+## 🔐 Processamento local
 
-As configurações, automações, scripts e outras informações necessárias ao funcionamento do NAVI podem ser armazenadas localmente no dispositivo do usuário.
+As automações e scripts são executados no próprio dispositivo, sem depender de um servidor próprio do NAVI para realizar o processamento das automações.
 
-Essas informações permanecem sob controle do usuário e não são enviadas para servidores próprios do NAVI.
+Isso permite utilizar o navegador e suas automações mantendo o processamento próximo do usuário.
 
-A remoção do aplicativo poderá resultar na remoção dos dados armazenados localmente, de acordo com o funcionamento do sistema operacional.
+## 💎 NAVI Pro
 
-## 6. Compartilhamento de informações
+Aumente sua capacidade de processamento com o NAVI Pro.
 
-O NAVI não vende, aluga ou comercializa informações pessoais dos usuários.
+Com o plano Pro, você pode processar uma quantidade maior de itens e aproveitar ainda mais suas automações.
 
-O aplicativo não compartilha automaticamente com servidores próprios as informações utilizadas durante a navegação ou execução das automações.
+### Navegue. Automatize. Execute.
 
-Entretanto, quando o usuário acessa ou interage com serviços de terceiros, esses serviços podem receber informações diretamente do dispositivo, de acordo com o funcionamento e as políticas desses serviços.
+Tenha um navegador preparado para transformar tarefas repetitivas em processos automatizados.
 
-Informações poderão também ser fornecidas quando exigido por lei, ordem judicial ou determinação de autoridade competente.
-
-## 7. Segurança
-
-Adotamos medidas razoáveis para preservar a segurança das informações armazenadas e processadas pelo aplicativo.
-
-Como parte de sua arquitetura, o NAVI prioriza o processamento local, reduzindo a necessidade de transmissão de dados de navegação para servidores externos.
-
-Apesar disso, nenhum sistema eletrônico pode garantir segurança absoluta.
-
-O usuário também é responsável por proteger seu dispositivo, credenciais, contas e demais informações utilizadas durante a navegação.
-
-## 8. Crianças
-
-O NAVI não é direcionado especificamente a crianças.
-
-Não solicitamos intencionalmente dados pessoais de crianças para utilização das funcionalidades do aplicativo.
-
-## 9. Direitos do usuário
-
-Nos termos da legislação aplicável, incluindo a Lei Geral de Proteção de Dados Pessoais (LGPD), o usuário possui direitos relacionados ao tratamento de seus dados pessoais.
-
-Como o NAVI prioriza o processamento local e não mantém, por padrão, um cadastro ou perfil do usuário em servidores próprios, muitas informações utilizadas pelo aplicativo permanecem diretamente no dispositivo do usuário.
-
-Para solicitações relacionadas a eventual tratamento de dados pessoais pelo NAVI, o usuário poderá entrar em contato através do endereço indicado nesta política.
-
-## 10. Alterações nesta Política de Privacidade
-
-Esta Política de Privacidade poderá ser atualizada periodicamente para refletir alterações nas funcionalidades do NAVI, na legislação aplicável ou na forma como o aplicativo trata informações.
-
-A versão mais recente estará sempre disponível na página oficial desta Política de Privacidade.
-
-A data da última atualização será indicada no início do documento.
-
-## 11. Contato
-
-Caso tenha dúvidas sobre esta Política de Privacidade ou sobre o tratamento de informações pelo NAVI, entre em contato:
-
-**E-mail:** ericofgomes@gmail.com
-
-**Desenvolvedor/Empresa:** Erico Gomes
-
----
-
-**Esta Política de Privacidade foi atualizada em 3 de setembro de 2026.**
+**NAVI — seu navegador para automação.**
