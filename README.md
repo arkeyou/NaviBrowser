@@ -2,7 +2,7 @@
 
 **Última atualização: 3 de setembro de 2026**
 
-Esta Política de Privacidade descreve como o aplicativo **NAVI** ("NAVI", "aplicativo", "nós" ou "nosso") trata informações durante sua utilização.
+Esta Política de Privacidade descreve como o aplicativo **NAVI** trata informações durante sua utilização.
 
 O NAVI é um navegador desenvolvido para permitir navegação na web e automação de tarefas por meio de fluxos, scripts e ações configuradas pelo próprio usuário.
 
