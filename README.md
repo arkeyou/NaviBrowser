@@ -61,12 +61,6 @@ As automações e scripts são executados no próprio dispositivo, sem depender 
 
 Isso permite utilizar o navegador e suas automações mantendo o processamento próximo do usuário.
 
-## 💎 NAVI Pro
-
-Aumente sua capacidade de processamento com o NAVI Pro.
-
-Com o plano Pro, você pode processar uma quantidade maior de itens e aproveitar ainda mais suas automações.
-
 ### Navegue. Automatize. Execute.
 
 Tenha um navegador preparado para transformar tarefas repetitivas em processos automatizados.
