@@ -42,6 +42,8 @@ As automações são executadas localmente no dispositivo e de acordo com as ins
 
 Os scripts fornecidos pelo usuário podem acessar e interagir com elementos das páginas abertas no navegador, conforme as permissões e limitações impostas pelo próprio ambiente web.
 
+Os scripts são executados no contexto da página web aberta pelo usuário para realizar ações de automação. Eles não são utilizados para modificar, atualizar ou adicionar funcionalidades ao aplicativo NAVI.
+
 O usuário é responsável pelo conteúdo dos scripts e pelas automações que criar e executar.
 
 As automações não devem ser utilizadas para obter acesso não autorizado a sistemas, contas ou informações de terceiros.
