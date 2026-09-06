@@ -1,6 +1,6 @@
 # NAVI — Navegação Inteligente
 
-<img src="img/img1.png" width="200"><img src="img/img2.png" width="200"><img src="img/img3.png" width="200"><img src="img/img4.png" width="200">
+<img src="img/img1.png" width="180"><img src="img/img2.png" width="180"><img src="img/img3.png" width="180"><img src="img/img4.png" width="180">
 
 NAVI é um navegador desenvolvido para tornar a interação com a web mais prática e automatizada.
 
