@@ -25,3 +25,5 @@ O NAVI combina a experiência de um navegador com recursos de automação web e 
 Ideal para tarefas repetitivas, verificações, acompanhamento de informações, testes e outros processos que envolvem interação com páginas da web.
 
 O uso do NAVI deve respeitar as leis aplicáveis e os termos de uso dos sites e serviços acessados.
+
+[Seller Shopee]([https://globo.com](https://seller.shopee.com.br/creator-center/insight/live/list))
