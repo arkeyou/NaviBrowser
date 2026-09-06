@@ -26,4 +26,4 @@ Ideal para tarefas repetitivas, verificações, acompanhamento de informações,
 
 O uso do NAVI deve respeitar as leis aplicáveis e os termos de uso dos sites e serviços acessados.
 
-[Seller Shopee]([https://globo.com](https://seller.shopee.com.br/creator-center/insight/live/list))
+[Seller Shopee](https://seller.shopee.com.br/creator-center/insight/live/list)
