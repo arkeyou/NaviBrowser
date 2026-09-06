@@ -1,68 +1,27 @@
-# NAVI — Navegue. Automatize. Execute.
+# NAVI — Navegação Inteligente
 
-O NAVI é um navegador inteligente desenvolvido para automatizar tarefas na web de forma simples, prática e poderosa.
+NAVI é um navegador desenvolvido para tornar a interação com a web mais prática e automatizada.
 
-Transforme tarefas repetitivas em automações que podem navegar por páginas, executar ações, processar informações e acompanhar alterações automaticamente.
+Além da navegação tradicional, o NAVI permite criar e executar rotinas de automação capazes de interagir com páginas da web, acompanhar informações e realizar tarefas repetitivas de forma estruturada.
 
-## 🚀 Automatize tarefas na web
+## AUTOMAÇÃO WEB
 
-Crie fluxos de automação para executar uma sequência de ações diretamente no navegador.
+Crie fluxos personalizados para executar uma sequência de ações no navegador, como acessar páginas, aguardar carregamentos, interagir com elementos e realizar ações sobre o conteúdo da página.
 
-- Acesse páginas automaticamente
-- Aguarde o carregamento de conteúdos
-- Execute ações em páginas da web
-- Interaja com elementos das páginas
-- Execute scripts JavaScript
-- Crie sequências de ações personalizadas
+## SCRIPTS DE AUTOMAÇÃO
 
-## ⚡ Execute seus próprios scripts
+Utilize as funcionalidades do motor baseado em JavaScript no contexto das páginas visitadas para realizar ações e verificações durante uma automação, tornando os fluxos mais flexíveis e adaptáveis.
 
-O NAVI permite utilizar JavaScript para criar automações mais avançadas.
+## FLUXOS E TAREFAS
 
-Escreva, salve e execute seus scripts diretamente no navegador, dando mais flexibilidade para automatizar tarefas específicas.
+Organize ações em sequências reutilizáveis para transformar tarefas repetitivas em rotinas automatizadas.
 
-## 👁️ Monitore páginas automaticamente
+O Navi é estruturado em três pilares que trabalham de forma integrada: **Monitor**, responsável por identificar eventos e mudanças; **Flow**, que processa e transforma essas informações; e **Action**, que executa automaticamente as ações definidas.
 
-Configure o NAVI para acompanhar páginas que sofrem alterações frequentes.
+## NAVEGADOR COM AUTOMAÇÃO
 
-Quando uma mudança é identificada, sua automação pode processar a informação e executar as ações configuradas.
+O NAVI combina a experiência de um navegador com recursos de automação web e execução de rotinas, permitindo automatizar interações realizadas durante a navegação.
 
-Ideal para acompanhar:
+Ideal para tarefas repetitivas, verificações, acompanhamento de informações, testes e outros processos que envolvem interação com páginas da web.
 
-- Informações atualizadas frequentemente
-- Alterações em páginas
-- Resultados e dados
-- Disponibilidade de informações
-- Processos que precisam ser repetidos periodicamente
-
-## 🔄 Monitoramento + Processamento + Execução
-
-O NAVI foi desenvolvido para transformar uma simples verificação em um processo automatizado.
-
-**Monitor:** acompanha uma página e identifica alterações.
-
-**Processar:** avalia as informações encontradas e determina o que deve acontecer.
-
-**Executar:** realiza as ações configuradas diretamente no navegador.
-
-Tudo isso pode funcionar de forma contínua, reduzindo tarefas manuais e repetitivas.
-
-## 🧩 Flexível para diferentes tarefas
-
-Crie automações de acordo com suas necessidades.
-
-Desde uma sequência simples de ações até fluxos mais elaborados utilizando JavaScript e condições personalizadas.
-
-O NAVI coloca o controle da automação nas suas mãos.
-
-## 🔐 Processamento local
-
-As automações e scripts são executados no próprio dispositivo, sem depender de um servidor próprio do NAVI para realizar o processamento das automações.
-
-Isso permite utilizar o navegador e suas automações mantendo o processamento próximo do usuário.
-
-### Navegue. Automatize. Execute.
-
-Tenha um navegador preparado para transformar tarefas repetitivas em processos automatizados.
-
-**NAVI — seu navegador para automação.**
+O uso do NAVI deve respeitar as leis aplicáveis e os termos de uso dos sites e serviços acessados.
