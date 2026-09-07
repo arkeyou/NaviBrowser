@@ -76,6 +76,9 @@ Válido para: `confirm`
 
 ## Exemplo Prático
 
+Aqui temos um exemplo de como podemos utilizar o NAVI.
+
+Recupera, por meio da API aberta da OpenSky, os aviões que estão sobrevoando Minas Gerais neste momento, identifica os respectivos números dos voos e abre, para cada um deles, a página correspondente no FlightAware com seus detalhes. 
 ```
 {
   "urlMonitor": "https://opensky-network.org/api/states/all?lamin=-22.95&lomin=-51.30&lamax=-14.10&lomax=-39.80",
