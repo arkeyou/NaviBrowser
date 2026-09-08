@@ -98,3 +98,14 @@ Esta configuração recupera, por meio da API aberta da OpenSky, os aviões que 
   }
 }
 ```
+
+---
+---
+
+
+## Perguntas Frequentes
+
+Estou recebendo o erro "Monitor Failed: 400 Bad Request"
+- Realizar a limpeza do cache (Engrenagem > Settings > Cache > Clear) e reiniciar o processo de automação.
+
+
