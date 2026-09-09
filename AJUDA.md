@@ -10,7 +10,7 @@
 ---
 ---
 ## Worlflow
-<img src="img/workflow02.png" width="100%">
+<img src="img/workflow01.png" width="100%">
 
 ---
 ---
