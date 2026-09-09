@@ -3,6 +3,7 @@
 #### Cabeçalho
 <img src="img/app01.png" width="100%">
 
+#### Painel de Automação
 #### Rodapé
 <img src="img/app02.png" width="100%">
 
