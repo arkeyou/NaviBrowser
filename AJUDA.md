@@ -9,6 +9,11 @@
 
 ---
 ---
+## Worlflow
+<img src="img/workflow01.png" width="100%">
+
+---
+---
 
 ## Configuração da Automação
 
