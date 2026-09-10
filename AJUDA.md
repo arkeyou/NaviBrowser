@@ -7,6 +7,8 @@
 #### Rodapé
 <img src="img/app02.png" width="100%">
 
+#### Log da Automação
+<img src="img/app03.png" width="100%">
 ---
 ---
 ## Worlflow
