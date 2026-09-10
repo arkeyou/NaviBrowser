@@ -9,8 +9,10 @@
 
 #### Log da Automação
 <img src="img/app03.png" width="100%">
+
 ---
 ---
+
 ## Worlflow
 <img src="img/workflow01.png" width="100%">
 
