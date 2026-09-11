@@ -129,6 +129,8 @@ Esta configuração recupera, por meio da API aberta da OpenSky, os aviões que 
 **Estou recebendo o erro "Monitor Failed: 400 Bad Request"**
 - Realizar a limpeza do cache (Engrenagem > Settings > Cache > Clear) e reiniciar o processo de automação.
 
+**O log mostra que a automação não está conseguindo avançar (Verificando 1o ou 2o na tela...)**
+- Confira se a página foi carregada corretamente e se necessário utilize a barra de endereços para atualizar o carregamento.
 
 **Qual é a página do vendedor afiliado Shopee?**
 - [Seller Shoppe](https://seller.shopee.com.br/creator-center/insight/live/list)
