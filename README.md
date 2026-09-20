@@ -39,7 +39,7 @@ Faça o login com sua conta de transmissão de lives em [Seller Shopee](https://
 Copie as configurações e cole na aba "Script" (ícone à esquerda na parte inferior do NAVI).
 <img src="img/app02.png" width="100%">
 
-Quando iniciar a live, toque em Iniciar (botão no canto superior esquerdo) e acompanhe as mensagens exibidas na aba "Log" (ícone central na parte inferior do NAVI).
+Quando iniciar a live, toque em "▶ Iniciar" e acompanhe as mensagens exibidas na aba "Log" (ícone central na parte inferior do NAVI).
 
 Os códigos identificados serão exibidos na aba "Processados" (ícone à direita na parte inferior do NAVI).
 
