@@ -135,3 +135,11 @@ Esta configuração recupera, por meio da API aberta da OpenSky, os aviões que 
 **Qual é a página do vendedor afiliado Shopee?**
 - [Seller Shoppe](https://seller.shopee.com.br/creator-center/insight/live/list)
 
+---
+---
+---
+---
+---
+---
+---
+---
