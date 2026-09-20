@@ -36,7 +36,15 @@ O uso do NAVI deve respeitar as leis aplicáveis e os termos de uso dos sites e 
 
 Faça o login com sua conta de transmissão de lives em [Seller Shopee](https://seller.shopee.com.br/creator-center/insight/live/list). Esse passo é necessário para que o NAVI consiga identificar os ids enviados nos comentários.
 
-Copie as configurações e cole na aba "Script" (ícone à esquerda na parte inferior do NAVI).
+Copie as configurações abaixo:
+```json
+{
+"newVersion": true,
+"secret": "MinhaChaveCriptografiaAES256Navi",
+"npoint": "6187a538b47bf5705d72"
+}
+```
+e cole na aba "Script" (ícone à esquerda na parte inferior do NAVI).
 <img src="img/app02.png" width="100%">
 
 Quando iniciar a live, toque em "▶ Iniciar" e acompanhe as mensagens exibidas na aba "Log" (ícone central na parte inferior do NAVI).
