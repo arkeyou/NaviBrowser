@@ -31,3 +31,20 @@ Ideal para tarefas repetitivas, verificações, acompanhamento de informações,
 O uso do NAVI deve respeitar as leis aplicáveis e os termos de uso dos sites e serviços acessados.
 
 - [Política de Privacidade](PRIVACY_POLICY.md)
+
+## GUIA SHOPEE
+
+Faça o login com sua conta de transmissão de lives em [Seller Shopee](https://seller.shopee.com.br/](https://seller.shopee.com.br/creator-center/insight/live/list).
+
+Copie as configurações abaixo 
+
+Para maiores informações sobre a funcionalidades do app, acesse [Ajuda e Exemplos](AJUDA.md).
+
+---
+---
+---
+---
+---
+---
+---
+---
