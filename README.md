@@ -20,7 +20,7 @@ Utilize as funcionalidades do motor baseado em JavaScript no contexto das págin
 
 Organize ações em sequências reutilizáveis para transformar tarefas repetitivas em rotinas automatizadas.
 
-O Navi é estruturado em três pilares que trabalham de forma integrada: **Monitor**, responsável por identificar eventos e mudanças; **Flow**, que processa e transforma essas informações; e **Action**, que executa automaticamente as ações definidas.
+O NAVI é estruturado em três pilares que trabalham de forma integrada: **Monitor**, responsável por identificar eventos e mudanças; **Flow**, que processa e transforma essas informações; e **Action**, que executa automaticamente as ações definidas.
 
 ## NAVEGADOR COM AUTOMAÇÃO
 
@@ -34,16 +34,16 @@ O uso do NAVI deve respeitar as leis aplicáveis e os termos de uso dos sites e 
 
 ## GUIA SHOPEE
 
-Faça o login com sua conta de transmissão de lives em [Seller Shopee](https://seller.shopee.com.br/creator-center/insight/live/list). Esse passo é necessário para que o app consiga identificar os ids enviados nos comentários.
+Faça o login com sua conta de transmissão de lives em [Seller Shopee](https://seller.shopee.com.br/creator-center/insight/live/list). Esse passo é necessário para que o NAVI consiga identificar os ids enviados nos comentários.
 
-Copie as configurações e cole na aba "Script" (ícone à esquerda na parte inferior do app).
+Copie as configurações e cole na aba "Script" (ícone à esquerda na parte inferior do NAVI).
 <img src="img/app02.png" width="100%">
 
-Quando iniciar a live, toque em Iniciar (botão no canto superior esquerdo) e acompanhe as mensagens exibidas na aba "Log" (ícone central na parte inferior do app).
+Quando iniciar a live, toque em Iniciar (botão no canto superior esquerdo) e acompanhe as mensagens exibidas na aba "Log" (ícone central na parte inferior do NAVI).
 
-Os códigos identificados serão exibidos na aba "Processados" (ícone à direita na parte inferior do app).
+Os códigos identificados serão exibidos na aba "Processados" (ícone à direita na parte inferior do NAVI).
 
-Para maiores informações sobre a funcionalidades do app, acesse [Ajuda e Exemplos](AJUDA.md) e assista o vídeo abaixo.
+Para maiores informações sobre a funcionalidades do NAVI, acesse [Ajuda e Exemplos](AJUDA.md) e assista o vídeo abaixo.
 
 ---
 ---
