@@ -53,7 +53,7 @@ Os códigos identificados serão exibidos na aba "Processados" (ícone à direit
 
 Para maiores informações sobre a funcionalidades do NAVI, acesse [Ajuda e Exemplos](AJUDA.md) e assista o vídeo abaixo.
 
-./img/copy_07B602E0-B913-4F95-B32C-AB27672F966D.mov
+<video src="./img/copy_07B602E0-B913-4F95-B32C-AB27672F966D.mov" controls></video>
 
 ---
 ---
