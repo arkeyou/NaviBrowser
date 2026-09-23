@@ -41,7 +41,7 @@ Copie as configurações abaixo:
 {
 "newVersion": true,
 "secret": "MinhaChaveCriptografiaAES256Navi",
-"npoint": "6187a538b47bf5705d72"
+"npoint": "840c6fa0b481dcbb628b"
 }
 ```
 e cole na aba "Script" (ícone à esquerda na parte inferior do NAVI).
@@ -53,7 +53,7 @@ Os códigos identificados serão exibidos na aba "Processados" (ícone à direit
 
 Para maiores informações sobre a funcionalidades do NAVI, acesse [Ajuda e Exemplos](AJUDA.md) e assista o vídeo abaixo.
 
-![](img/copy_07B602E0-B913-4F95-B32C-AB27672F966D.mov)
+./img/copy_07B602E0-B913-4F95-B32C-AB27672F966D.mov
 
 ---
 ---
