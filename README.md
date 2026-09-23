@@ -55,6 +55,10 @@ Para maiores informações sobre a funcionalidades do NAVI, acesse [Ajuda e Exem
 
 https://github.com/user-attachments/assets/6de4307c-cfa9-4bf4-91e0-3a725eb737ad
 
+Assista abaixo uma demonstração das funcionalidades do Navi:
+
+https://github.com/user-attachments/assets/de4346be-e5e6-4935-baf4-6edd94f987b4
+
 ---
 ---
 ---
