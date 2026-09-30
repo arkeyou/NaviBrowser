@@ -6,7 +6,7 @@ NAVI é um navegador desenvolvido para tornar a interação com a web mais prát
 
 Além da navegação tradicional, o NAVI permite criar e executar rotinas de automação capazes de interagir com páginas da web, acompanhar informações e realizar tarefas repetitivas de forma estruturada.
 
-[Ajuda e Exemplos](AJUDA.md)
+[Ajuda e Exemplos](AJUDA.md) / [Guia Shopee](https://github.com/arkeyou/NaviBrowser/blob/main/README.md#guia-shopee)
 
 ## AUTOMAÇÃO WEB
 
