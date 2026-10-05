@@ -51,7 +51,9 @@ Quando iniciar a live, toque em "▶ Iniciar" e acompanhe as mensagens exibidas 
 
 Os códigos identificados serão exibidos na aba "Processados" (ícone à direita na parte inferior do NAVI).
 
-Para maiores informações sobre a funcionalidades do NAVI, acesse [Ajuda e Exemplos](AJUDA.md) e assista o vídeo que demonstra a configuração:
+Para maiores informações sobre a funcionalidades do NAVI, acesse [Ajuda e Exemplos](AJUDA.md) e assista os 3 vídeos abaixo que demonstram as configurações:
+
+https://github.com/user-attachments/assets/69747707-e4b2-4ecc-a8f7-0428b77394a9
 
 https://github.com/user-attachments/assets/6de4307c-cfa9-4bf4-91e0-3a725eb737ad
 
